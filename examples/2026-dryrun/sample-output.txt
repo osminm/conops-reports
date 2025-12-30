@@ -1,0 +1,2 @@
+# Run the dry-run example with:
+# pwsh ./scripts/generate-report-folders.ps1 -Year 2026 -RootPath "./examples/2026-dryrun" -DryRun
